@@ -1,6 +1,4 @@
-*Three repositories: Write Java, Build Projects, Transform the Tech World!" ~('in Galadiel voice')*
-
- "Here's the Java cheat sheet, your guiding light in the midst of coding challenges in the darkest of times. When there's no light except the white font colors of your code and the output full of erorrs"
+ *"Here's the Java cheat sheet, your guiding light in the midst of coding challenges in the darkest of times. When there's no light except the white font colors of your code and the output full of erorrs ~('in Galadiel voice')"*
 
 ```java
 // Hello World Program
